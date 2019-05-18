@@ -1,2 +1,2 @@
 # Wordlist
-Some useful wordlist
+Some useful wordlists
